@@ -19,12 +19,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1204.6667
-    height: 579.3334
+    width: 1280
+    height: 587.3334
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 133171
+  controlID: 158292
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -45,10 +45,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 676.6667
-    y: 80
-    width: 212
-    height: 246.33334
+    x: 562
+    y: 72.66667
+    width: 400.6667
+    height: 466.33334
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -95,10 +95,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 212
-      height: 225.33334
-    m_Scale: {x: 0.165625, y: 0.165625}
-    m_Translation: {x: 106, y: 112.66667}
+      width: 400.6667
+      height: 445.33334
+    m_Scale: {x: 0.31302086, y: 0.31302086}
+    m_Translation: {x: 200.33334, y: 222.66667}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -106,12 +106,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -640
-      y: -680.2516
+      y: -711.3477
       width: 1280
-      height: 1360.5032
+      height: 1422.6954
     m_MinimalGUI: 1
-  m_defaultScale: 0.165625
-  m_LastWindowPixelSize: {x: 318, y: 369.5}
+  m_defaultScale: 0.31302086
+  m_LastWindowPixelSize: {x: 601, y: 699.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -136,12 +136,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 882
-    height: 579.3334
+    width: 964.6667
+    height: 587.3334
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 133172
+  controlID: 158293
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,12 +162,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 882
-    height: 267.33334
+    width: 964.6667
+    height: 487.33334
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 133173
+  controlID: 158294
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -185,8 +185,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 228
-    height: 267.33334
+    width: 215.33333
+    height: 487.33334
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
@@ -214,20 +214,20 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 8.666667
-    y: 80
-    width: 227
-    height: 246.33334
+    x: 0
+    y: 72.66667
+    width: 214.33333
+    height: 466.33334
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 8590.667}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ea59f8ff285dfeff028dfeffac92feff02f7ffff16fbffffec190200
+      m_ExpandedIDs: d6b5fbff84b9fcff1cdefeff92dffeffb4cbffff2acdffff06e4ffff18fbffff12b200003eb20000fceb00004eec000000ed00002aed00003eed00006eed000084ed00009eed000092ee0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -266,12 +266,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 228
+    x: 215.33333
     y: 0
-    width: 440
-    height: 267.33334
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 346.6667
+    height: 487.33334
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -298,10 +298,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 236.66667
-    y: 80
-    width: 438
-    height: 246.33334
+    x: 215.33334
+    y: 72.66667
+    width: 344.6667
+    height: 466.33334
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -311,8 +311,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -98.66666, y: -26}
+      snapOffset: {x: -101, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -322,9 +322,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -141, y: 149}
+      snapOffset: {x: 0, y: 149}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 1
+      snapCorner: 0
       id: unity-grid-and-snap-toolbar
       index: 1
       layout: 1
@@ -333,7 +333,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 24.666666}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-scene-view-toolbar
@@ -355,7 +355,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 25.333334}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -366,8 +366,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -104.66667, y: -123.33334}
-      snapOffsetDelta: {x: -7.3333282, y: 0}
+      snapOffset: {x: -112, y: -124}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Orientation
       index: 0
@@ -482,16 +482,16 @@ MonoBehaviour:
       id: Scene View/Scene Visibility
       index: 9
       layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
+    - dockPosition: 0
+      containerId: overlay-toolbar__right
+      floating: 1
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: -231, y: -202.40002}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 3
       id: Scene View/Particles
-      index: 10
+      index: 0
       layout: 4
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
@@ -503,9 +503,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.460056, y: 0.8904495, z: -26.821095}
+    m_Target: {x: 1890.6621, y: 1024.9504, z: 0}
     speed: 2
-    m_Value: {x: 12.460056, y: 0.8904495, z: -26.821095}
+    m_Value: {x: 1890.6621, y: 1024.9504, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -552,13 +552,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.32277548, y: -0.23046055, z: 0.08148879, w: 0.9145907}
+    m_Target: {x: 0.08719284, y: -0.017048601, z: 0.0023663996, w: 0.99632776}
     speed: 2
-    m_Value: {x: 0.3227089, y: -0.230413, z: 0.08147198, w: 0.914402}
+    m_Value: {x: 0.0871681, y: -0.017043764, z: 0.0023657281, w: 0.99604505}
   m_Size:
-    m_Target: 20.153606
+    m_Target: 10.189439
     speed: 2
-    m_Value: 20.153606
+    m_Value: 10.189439
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -603,10 +603,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 216.66667
-    y: 80
-    width: 572
-    height: 413.66666
+    x: 246.66667
+    y: 72.66667
+    width: 348.66663
+    height: 317
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -616,15 +616,16 @@ MonoBehaviour:
     - {fileID: -646390184670909478, guid: 74a8d5e9592248e4f87058892616fdb3, type: 2}
     - {fileID: -8576393841847985668, guid: 74a8d5e9592248e4f87058892616fdb3, type: 2}
     - {fileID: 1107361279860574986, guid: df0275f652a0ae6449a935afc6e06eda, type: 2}
+    - {fileID: 1107361279860574986, guid: 35011b8dee9ca844cb34e732d0b1fa9c, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.3465792
+    - e00: 0.6685918
       e01: 0
       e02: 0
-      e03: 67.998
+      e03: 54.65756
       e10: 0
-      e11: 0.3465792
+      e11: 0.6685918
       e12: 0
-      e13: 20.357702
+      e13: -60.100574
       e20: 0
       e21: 0
       e22: 1
@@ -633,14 +634,14 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 0.43887392
+    - e00: 0.5822827
       e01: 0
       e02: 0
-      e03: 2.4360962
+      e03: -35.16535
       e10: 0
-      e11: 0.43887392
+      e11: 0.5822827
       e12: 0
-      e13: 90.54438
+      e13: 56.924797
       e20: 0
       e21: 0
       e22: 1
@@ -665,10 +666,26 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
+    - e00: 0.48913026
+      e01: 0
+      e02: 0
+      e03: 32.58516
+      e10: 0
+      e11: 0.48913026
+      e12: 0
+      e13: 181.41917
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: df0275f652a0ae6449a935afc6e06eda, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 74a8d5e9592248e4f87058892616fdb3, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 1107361279860574986, guid: df0275f652a0ae6449a935afc6e06eda, type: 2}
+  - m_Target: {fileID: -646390184670909478, guid: 74a8d5e9592248e4f87058892616fdb3, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
@@ -696,10 +713,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 668
+    x: 562
     y: 0
-    width: 214
-    height: 267.33334
+    width: 402.6667
+    height: 487.33334
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
@@ -717,24 +734,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
+  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 267.33334
-    width: 882
-    height: 312.00003
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
-  m_ActualView: {fileID: 12}
+    y: 487.33334
+    width: 964.6667
+    height: 100.00003
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 12}
   - {fileID: 13}
   - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 2
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -755,10 +772,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 8.666667
-    y: 347.33334
-    width: 881
-    height: 291.00003
+    x: 0
+    y: 560
+    width: 963.6667
+    height: 79.00003
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -776,22 +793,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/LowPolyMegapolis/Prefabs/Nature
+    - Assets/Texture
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/LowPolyMegapolis/Prefabs/Nature
-  m_LastFoldersGridSize: -1
+  - Assets/Texture
+  m_LastFoldersGridSize: 64
   m_LastProjectPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 48.99997}
-    m_SelectedIDs: da5d0000
-    m_LastClickedID: 24026
-    m_ExpandedIDs: 00000000225d0000245d0000925d0000965d00009e5d0000eaff0100f8ff0100
+    scrollPos: {x: 0, y: 100.99997}
+    m_SelectedIDs: 88290300
+    m_LastClickedID: 207240
+    m_ExpandedIDs: 00000000f4760000f67600000c770000107700006ab10000be930300aeec0400
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -807,7 +824,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 11}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -819,7 +836,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000225d0000245d0000965d0000eaff0100f8ff0100
+    m_ExpandedIDs: 00000000f4760000f6760000107700006ab10000be930300aeec0400
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -844,10 +861,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 408ef7ff
-    m_LastClickedInstanceID: -553408
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_SelectedInstanceIDs: e462fbff
+    m_LastClickedInstanceID: -302364
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000b45d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -871,7 +888,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 92.99997}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -895,17 +912,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 8.666667
-    y: 554
-    width: 881
-    height: 84.333374
+    x: 0
+    y: 908
+    width: 1640
+    height: 91
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -548460
+  m_LastSelectedObjectID: -302364
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -914,7 +931,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 1
+  m_EditorHideFlags: 0
   m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -926,10 +943,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 8.666667
-    y: 558
-    width: 881
-    height: 80.333374
+    x: 0
+    y: 560
+    width: 963.6667
+    height: 79.00003
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -949,19 +966,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 882
+    x: 964.6667
     y: 0
-    width: 322.66675
-    height: 579.3334
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 315.3333
+    height: 587.3334
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
-  - {fileID: 18}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -982,10 +998,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 890.6667
-    y: 80
-    width: 321.66675
-    height: 558.3334
+    x: 964.6667
+    y: 72.66667
+    width: 314.3333
+    height: 566.3334
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -996,7 +1012,7 @@ MonoBehaviour:
     m_CachedPref: -251
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -553408
+  m_LastInspectedObjectInstanceID: -302364
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
@@ -1004,1550 +1020,6 @@ MonoBehaviour:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &17
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 363648761, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: GitHub
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 890.6667
-    y: 80
-    width: 321.66663
-    height: 551.6667
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-  progressMessageClearTime: -1
-  notificationClearTime: -1
-  timeSinceLastRotation: -1
-  currentBranchAndRemoteHasUpdate: 0
-  currentTrackingStatusHasUpdate: 1
-  currentStatusEntriesHasUpdate: 0
-  repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 0
-  changeTab: 3
-  activeTab: 3
-  initProjectView:
-    hasCompletedInitialCheck: 0
-    isUserDataPresent: 0
-    lastCheckUserChangedEvent:
-      updatedTimeString: 2022-09-09T15:18:46.599-07:00
-      cacheType: 8
-  branchesView:
-    treeLocals:
-      IsRemote: 0
-      folders:
-        keys:
-        - Local branches
-        values:
-        - path: Local branches
-          label: Local branches
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-      checkedFileNodes:
-        keys: []
-        values: []
-      title: Local branches
-      pathSeparator: /
-      displayRootNode: 1
-      isSelectable: 1
-      isCheckable: 0
-      nodes:
-      - path: Local branches
-        label: Local branches
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: master
-        label: master
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 1
-        treeIsCheckable: 0
-        checkState: 0
-      selectedNode:
-        path: 
-        label: 
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-    treeRemotes:
-      IsRemote: 1
-      folders:
-        keys:
-        - Remote branches
-        - origin
-        values:
-        - path: Remote branches
-          label: Remote branches
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-        - path: origin
-          label: origin
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-      checkedFileNodes:
-        keys: []
-        values: []
-      title: Remote branches
-      pathSeparator: /
-      displayRootNode: 1
-      isSelectable: 1
-      isCheckable: 0
-      nodes:
-      - path: Remote branches
-        label: Remote branches
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: origin
-        label: origin
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: origin/master
-        label: master
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      selectedNode:
-        path: origin/master
-        label: master
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-    mode: 0
-    newBranchName: 
-    scroll: {x: 0, y: 0}
-    disableDelete: 1
-    disableCreate: 1
-    lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2022-09-09T15:53:23.413-07:00
-      cacheType: 2
-    lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2022-09-09T15:59:05.150-07:00
-      cacheType: 1
-    currentBranch:
-      name: master
-      tracking: 
-    currentRemote:
-      name: origin
-      url: https://github.com/noahcas25/Forage-Quest.git
-      login: 
-      user: 
-      host: 
-      function: 0
-      token: 
-    localBranches:
-    - name: master
-      tracking: 
-    remoteBranches:
-    - name: origin/master
-      tracking: '[None]'
-  changesView:
-    currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 1
-    currentLocksHasUpdate: 1
-    commitBody: 
-    commitMessage: Scarecrow Movement, Assets imported
-    currentBranch: '[master]'
-    treeScroll: {x: 0, y: 0}
-    treeChanges:
-      assets:
-        keys: []
-        values: []
-      folders:
-        keys: []
-        values: []
-      checkedFileNodes:
-        keys: []
-        values: []
-      title: 
-      pathSeparator: \
-      displayRootNode: 0
-      isSelectable: 1
-      isCheckable: 1
-      isUsingGlobalSelection: 1
-      nodes:
-      - path: 
-        label: 
-        level: -1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      selectedNode:
-        path: 
-        label: 
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-    gitStatusEntries: []
-    changedFilesText: No changed files
-    lastCurrentBranchChangedEvent:
-      updatedTimeString: 2022-09-09T20:04:20.286-07:00
-      cacheType: 1
-    lastStatusEntriesChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-      cacheType: 6
-    lastLocksChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-      cacheType: 7
-  historyView:
-    currentLogHasUpdate: 0
-    currentTrackingStatusHasUpdate: 0
-    logEntries:
-    - commitID: 188f7e31f43411998f4b58d54c317c76ccf00806
-      mergeA: 
-      mergeB: 
-      authorName: Noah
-      authorEmail: Noah_castro25@yahoo.com
-      commitEmail: Noah_castro25@yahoo.com
-      commitName: Noah
-      summary: ScareCrow imported
-      description: 
-      timeString: 2022-09-09T15:21:04.000-07:00
-      commitTimeString: 2022-09-09T15:21:04.000-07:00
-      changes:
-      - path: Assets\Prefabs.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs.meta
-        projectPath: Assets\Prefabs.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Prefabs\Scarecrow.obj
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\Scarecrow.obj
-        projectPath: Assets\Prefabs\Scarecrow.obj
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Prefabs\Scarecrow.obj.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\Scarecrow.obj.meta
-        projectPath: Assets\Prefabs\Scarecrow.obj.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Prefabs\diffuse.png
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\diffuse.png
-        projectPath: Assets\Prefabs\diffuse.png
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Prefabs\diffuse.png.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\diffuse.png.meta
-        projectPath: Assets\Prefabs\diffuse.png.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-    - commitID: b69e50944bd5b11dbe1c55a84ee1be957de3b233
-      mergeA: 
-      mergeB: 
-      authorName: Noah
-      authorEmail: Noah_castro25@yahoo.com
-      commitEmail: Noah_castro25@yahoo.com
-      commitName: Noah
-      summary: Initial Commit
-      description: 
-      timeString: 2022-09-09T15:06:38.000-07:00
-      commitTimeString: 2022-09-09T15:06:38.000-07:00
-      changes:
-      - path: Assets\Plugins.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins.meta
-        projectPath: Assets\Plugins.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub.meta
-        projectPath: Assets\Plugins\GitHub.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor.meta
-        projectPath: Assets\Plugins\GitHub\Editor.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-        projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-        projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\System.Threading.dll
-        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-        projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-        projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\credits.txt
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\credits.txt
-        projectPath: Assets\Plugins\GitHub\Editor\credits.txt
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\credits.txt.meta
-        projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\eula.txt
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\eula.txt
-        projectPath: Assets\Plugins\GitHub\Editor\eula.txt
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\eula.txt.meta
-        projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.bundle
-        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\libsfw.so
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.so
-        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\sfw.net.dll
-        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\x86.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86.meta
-        projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Scenes.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Scenes.meta
-        projectPath: Assets\Scenes.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Scenes\SampleScene.unity
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Scenes\SampleScene.unity
-        projectPath: Assets\Scenes\SampleScene.unity
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Scenes\SampleScene.unity.meta
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Scenes\SampleScene.unity.meta
-        projectPath: Assets\Scenes\SampleScene.unity.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Packages\manifest.json
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Packages\manifest.json
-        projectPath: Packages\manifest.json
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Packages\packages-lock.json
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Packages\packages-lock.json
-        projectPath: Packages\packages-lock.json
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\AudioManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\AudioManager.asset
-        projectPath: ProjectSettings\AudioManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\ClusterInputManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\ClusterInputManager.asset
-        projectPath: ProjectSettings\ClusterInputManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\DynamicsManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\DynamicsManager.asset
-        projectPath: ProjectSettings\DynamicsManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\EditorBuildSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\EditorBuildSettings.asset
-        projectPath: ProjectSettings\EditorBuildSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\EditorSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\EditorSettings.asset
-        projectPath: ProjectSettings\EditorSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\GraphicsSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\GraphicsSettings.asset
-        projectPath: ProjectSettings\GraphicsSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\InputManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\InputManager.asset
-        projectPath: ProjectSettings\InputManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\MemorySettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\MemorySettings.asset
-        projectPath: ProjectSettings\MemorySettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\NavMeshAreas.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\NavMeshAreas.asset
-        projectPath: ProjectSettings\NavMeshAreas.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\PackageManagerSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\PackageManagerSettings.asset
-        projectPath: ProjectSettings\PackageManagerSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
-        projectPath: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\Physics2DSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\Physics2DSettings.asset
-        projectPath: ProjectSettings\Physics2DSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\PresetManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\PresetManager.asset
-        projectPath: ProjectSettings\PresetManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\ProjectSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\ProjectSettings.asset
-        projectPath: ProjectSettings\ProjectSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\ProjectVersion.txt
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\ProjectVersion.txt
-        projectPath: ProjectSettings\ProjectVersion.txt
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\QualitySettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\QualitySettings.asset
-        projectPath: ProjectSettings\QualitySettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\TagManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\TagManager.asset
-        projectPath: ProjectSettings\TagManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\TimeManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\TimeManager.asset
-        projectPath: ProjectSettings\TimeManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\UnityConnectSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\UnityConnectSettings.asset
-        projectPath: ProjectSettings\UnityConnectSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\VFXManager.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\VFXManager.asset
-        projectPath: ProjectSettings\VFXManager.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\VersionControlSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\VersionControlSettings.asset
-        projectPath: ProjectSettings\VersionControlSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\XRSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\XRSettings.asset
-        projectPath: ProjectSettings\XRSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: ProjectSettings\boot.config
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\boot.config
-        projectPath: ProjectSettings\boot.config
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: UserSettings\EditorUserSettings.asset
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\UserSettings\EditorUserSettings.asset
-        projectPath: UserSettings\EditorUserSettings.asset
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: UserSettings\Layouts\default-2021.dwlt
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\UserSettings\Layouts\default-2021.dwlt
-        projectPath: UserSettings\Layouts\default-2021.dwlt
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-    - commitID: 6e12c681efac5d04c8707bd60f03791636a936c0
-      mergeA: 
-      mergeB: 
-      authorName: Noah
-      authorEmail: Noah_castro25@yahoo.com
-      commitEmail: Noah_castro25@yahoo.com
-      commitName: Noah
-      summary: Initial commit
-      description: 
-      timeString: 2022-09-09T15:02:45.000-07:00
-      commitTimeString: 2022-09-09T15:02:45.000-07:00
-      changes:
-      - path: .gitattributes
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\.gitattributes
-        projectPath: .gitattributes
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: .gitignore
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\.gitignore
-        projectPath: .gitignore
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\.gitignore
-        fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\.gitignore
-        projectPath: Assets\.gitignore
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-    statusAhead: 0
-    lastLogChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-      cacheType: 3
-    lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-09-09T20:02:29.257-07:00
-      cacheType: 5
-    historyControl:
-      scroll: {x: 0, y: 0}
-      entries:
-      - commitID: 188f7e31f43411998f4b58d54c317c76ccf00806
-        mergeA: 
-        mergeB: 
-        authorName: Noah
-        authorEmail: Noah_castro25@yahoo.com
-        commitEmail: Noah_castro25@yahoo.com
-        commitName: Noah
-        summary: ScareCrow imported
-        description: 
-        timeString: 2022-09-09T15:21:04.000-07:00
-        commitTimeString: 2022-09-09T15:21:04.000-07:00
-        changes:
-        - path: Assets\Prefabs.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs.meta
-          projectPath: Assets\Prefabs.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Prefabs\Scarecrow.obj
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\Scarecrow.obj
-          projectPath: Assets\Prefabs\Scarecrow.obj
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Prefabs\Scarecrow.obj.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\Scarecrow.obj.meta
-          projectPath: Assets\Prefabs\Scarecrow.obj.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Prefabs\diffuse.png
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\diffuse.png
-          projectPath: Assets\Prefabs\diffuse.png
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Prefabs\diffuse.png.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Prefabs\diffuse.png.meta
-          projectPath: Assets\Prefabs\diffuse.png.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-      - commitID: b69e50944bd5b11dbe1c55a84ee1be957de3b233
-        mergeA: 
-        mergeB: 
-        authorName: Noah
-        authorEmail: Noah_castro25@yahoo.com
-        commitEmail: Noah_castro25@yahoo.com
-        commitName: Noah
-        summary: Initial Commit
-        description: 
-        timeString: 2022-09-09T15:06:38.000-07:00
-        commitTimeString: 2022-09-09T15:06:38.000-07:00
-        changes:
-        - path: Assets\Plugins.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins.meta
-          projectPath: Assets\Plugins.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub.meta
-          projectPath: Assets\Plugins\GitHub.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor.meta
-          projectPath: Assets\Plugins\GitHub\Editor.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-          projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-          projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\System.Threading.dll
-          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-          projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-          projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\credits.txt
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\credits.txt
-          projectPath: Assets\Plugins\GitHub\Editor\credits.txt
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\credits.txt.meta
-          projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\eula.txt
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\eula.txt
-          projectPath: Assets\Plugins\GitHub\Editor\eula.txt
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\eula.txt.meta
-          projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.bundle
-          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\libsfw.so
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.so
-          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\sfw.net.dll
-          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\x86.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86.meta
-          projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Scenes.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Scenes.meta
-          projectPath: Assets\Scenes.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Scenes\SampleScene.unity
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Scenes\SampleScene.unity
-          projectPath: Assets\Scenes\SampleScene.unity
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\Scenes\SampleScene.unity.meta
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\Scenes\SampleScene.unity.meta
-          projectPath: Assets\Scenes\SampleScene.unity.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Packages\manifest.json
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Packages\manifest.json
-          projectPath: Packages\manifest.json
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Packages\packages-lock.json
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Packages\packages-lock.json
-          projectPath: Packages\packages-lock.json
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\AudioManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\AudioManager.asset
-          projectPath: ProjectSettings\AudioManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\ClusterInputManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\ClusterInputManager.asset
-          projectPath: ProjectSettings\ClusterInputManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\DynamicsManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\DynamicsManager.asset
-          projectPath: ProjectSettings\DynamicsManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\EditorBuildSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\EditorBuildSettings.asset
-          projectPath: ProjectSettings\EditorBuildSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\EditorSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\EditorSettings.asset
-          projectPath: ProjectSettings\EditorSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\GraphicsSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\GraphicsSettings.asset
-          projectPath: ProjectSettings\GraphicsSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\InputManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\InputManager.asset
-          projectPath: ProjectSettings\InputManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\MemorySettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\MemorySettings.asset
-          projectPath: ProjectSettings\MemorySettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\NavMeshAreas.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\NavMeshAreas.asset
-          projectPath: ProjectSettings\NavMeshAreas.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\PackageManagerSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\PackageManagerSettings.asset
-          projectPath: ProjectSettings\PackageManagerSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
-          projectPath: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\Physics2DSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\Physics2DSettings.asset
-          projectPath: ProjectSettings\Physics2DSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\PresetManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\PresetManager.asset
-          projectPath: ProjectSettings\PresetManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\ProjectSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\ProjectSettings.asset
-          projectPath: ProjectSettings\ProjectSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\ProjectVersion.txt
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\ProjectVersion.txt
-          projectPath: ProjectSettings\ProjectVersion.txt
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\QualitySettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\QualitySettings.asset
-          projectPath: ProjectSettings\QualitySettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\TagManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\TagManager.asset
-          projectPath: ProjectSettings\TagManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\TimeManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\TimeManager.asset
-          projectPath: ProjectSettings\TimeManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\UnityConnectSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\UnityConnectSettings.asset
-          projectPath: ProjectSettings\UnityConnectSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\VFXManager.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\VFXManager.asset
-          projectPath: ProjectSettings\VFXManager.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\VersionControlSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\VersionControlSettings.asset
-          projectPath: ProjectSettings\VersionControlSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\XRSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\XRSettings.asset
-          projectPath: ProjectSettings\XRSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: ProjectSettings\boot.config
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\ProjectSettings\boot.config
-          projectPath: ProjectSettings\boot.config
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: UserSettings\EditorUserSettings.asset
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\UserSettings\EditorUserSettings.asset
-          projectPath: UserSettings\EditorUserSettings.asset
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: UserSettings\Layouts\default-2021.dwlt
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\UserSettings\Layouts\default-2021.dwlt
-          projectPath: UserSettings\Layouts\default-2021.dwlt
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-      - commitID: 6e12c681efac5d04c8707bd60f03791636a936c0
-        mergeA: 
-        mergeB: 
-        authorName: Noah
-        authorEmail: Noah_castro25@yahoo.com
-        commitEmail: Noah_castro25@yahoo.com
-        commitName: Noah
-        summary: Initial commit
-        description: 
-        timeString: 2022-09-09T15:02:45.000-07:00
-        commitTimeString: 2022-09-09T15:02:45.000-07:00
-        changes:
-        - path: .gitattributes
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\.gitattributes
-          projectPath: .gitattributes
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: .gitignore
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\.gitignore
-          projectPath: .gitignore
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-        - path: Assets\.gitignore
-          fullPath: C:\Users\Noah\Desktop\UnityProjects\Forage Quest\Assets\.gitignore
-          projectPath: Assets\.gitignore
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-      statusAhead: 0
-      selectedIndex: -1
-    selectedEntry:
-      commitID: 
-      mergeA: 
-      mergeB: 
-      authorName: 
-      authorEmail: 
-      commitEmail: 
-      commitName: 
-      summary: 
-      description: 
-      timeString: 0001-01-01T00:00:00.000+00:00
-      commitTimeString: 0001-01-01T00:00:00.000+00:00
-      changes: []
-    treeChanges:
-      assets:
-        keys: []
-        values: []
-      folders:
-        keys: []
-        values: []
-      checkedFileNodes:
-        keys: []
-        values: []
-      title: 
-      pathSeparator: /
-      displayRootNode: 0
-      isSelectable: 1
-      isCheckable: 0
-      isUsingGlobalSelection: 0
-      nodes: []
-      selectedNode:
-        path: 
-        label: 
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-    detailsScroll: {x: 0, y: 0}
-  settingsView:
-    gitPathView:
-      gitPath: C:\Users\Noah\AppData\Local\GitHubUnity\git\cmd\git.exe
-      gitLfsPath: C:\Users\Noah\AppData\Local\GitHubUnity\git-lfs\git-lfs.exe
-      errorMessage: 
-      resetToBundled: 0
-      resetToSystem: 0
-      changingManually: 0
-    hasRemote: 1
-    lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2022-09-09T15:59:05.150-07:00
-      cacheType: 1
-    metricsEnabled: 0
-    newRepositoryRemoteUrl: https://github.com/noahcas25/Forage-Quest.git
-    repositoryRemoteName: origin
-    repositoryRemoteUrl: https://github.com/noahcas25/Forage-Quest.git
-    scroll: {x: 0, y: 0}
-    userSettingsView:
-      gitName: Noah
-      gitEmail: Noah_castro25@yahoo.com
-      newGitName: Noah
-      newGitEmail: Noah_castro25@yahoo.com
-      needsSaving: 0
-      lastCheckUserChangedEvent:
-        updatedTimeString: 2022-09-09T15:58:53.045-07:00
-        cacheType: 8
-    webTimeout: 3000
-    gitTimeout: 5000
-  locksView:
-    currentRemoteHasUpdate: 0
-    currentStatusEntriesHasUpdate: 0
-    currentLocksHasUpdate: 0
-    keychainHasUpdate: 0
-    locksControl:
-      scroll: {x: 0, y: 0}
-      gitLockEntries: []
-      assets:
-        keys: []
-        values: []
-      gitStatusDictionary:
-        keys: []
-        values: []
-      selectedEntry:
-        gitLock:
-          id: 
-          path: 
-          owner:
-            name: 
-            email: 
-          lockedAtString: 
-        gitFileStatus: 0
-        lockedAt: 1 Jan 0001, 00:00
-    lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2022-09-09T20:02:25.088-07:00
-      cacheType: 1
-    lastLocksChangedEvent:
-      updatedTimeString: 2022-09-09T20:02:26.601-07:00
-      cacheType: 7
-    lastStatusEntriesChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-      cacheType: 6
-    lockedFiles: []
-    gitStatusEntries: []
-    currentUsername: 
-    unlockFileMenuContent:
-      m_Text: Release Lock
-      m_Image: {fileID: 0}
-      m_Tooltip: 
-    forceUnlockFileMenuContent:
-      m_Text: Release Lock (forced)
-      m_Image: {fileID: 0}
-      m_Tooltip: 
-  hasRemote: 1
-  currentRemoteName: origin
-  currentBranch: master
-  currentRemoteUrl: https://github.com/noahcas25/Forage-Quest.git
-  statusAhead: 1
-  statusBehind: 0
-  hasItemsToCommit: 0
-  isTrackingRemoteBranch: 1
-  currentBranchContent:
-    m_Text: master
-    m_Image: {fileID: 0}
-    m_Tooltip: Active branch
-  currentRemoteUrlContent:
-    m_Text: https://github.com/noahcas25/Forage-Quest.git
-    m_Image: {fileID: 0}
-    m_Tooltip: Url of the origin remote
-  lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-09-09T20:04:20.286-07:00
-    cacheType: 1
-  lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-09-09T20:13:22.263-07:00
-    cacheType: 5
-  lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-09-09T20:04:21.824-07:00
-    cacheType: 6
-  pullButtonContent:
-    m_Text: Pull
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  pushButtonContent:
-    m_Text: Push
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  refreshButtonContent:
-    m_Text: Refresh
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  fetchButtonContent:
-    m_Text: Fetch
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  repositoryProgressValue: 0
-  repositoryProgressMessage: 
-  appManagerProgressValue: 0
-  appManagerProgressMessage: 
-  connections: []
-  primaryConnectionUsername: 
---- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2567,10 +1039,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 890.6667
-    y: 80
-    width: 321.66663
-    height: 551.6667
+    x: 898.6667
+    y: 72.66667
+    width: 380.3333
+    height: 566.3334
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
