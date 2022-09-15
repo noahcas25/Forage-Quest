@@ -6,26 +6,24 @@ using TMPro;
 
 public class CollectibleList : MonoBehaviour
 {
-     [SerializeField] private Transform _listInts;
-     [SerializeField] private Button _closeButton;
+    [SerializeField] private Transform _listInts;
+    [SerializeField] private AudioSource _audio;
+    [SerializeField] private AudioClip _collectAudio;
+    [SerializeField] private AudioClip _listAudio;
 
      int[] _collectibleCount = new int[12];
      private RectTransform _listPosition;
-     TextMeshProUGUI[] _collectibleCountTexts = new TextMeshProUGUI[12];
 
     public static CollectibleList Instance {get; private set;}
 
     private void Awake() {
         Instance = this;
         _listPosition = this.gameObject.GetComponent<RectTransform>();
-        
-        for(int i = 0; i < _listInts.childCount; i++) {
-            _collectibleCountTexts[i] = _listInts.GetChild(i).GetComponent<TextMeshProUGUI>();
-        }
     }
 
     public void MoveIn() {
-        _closeButton.enabled = true;
+        if(LeanTween.isTweening(_listPosition)) return;
+        _audio.PlayOneShot(_listAudio);
 
         LeanTween.moveX(_listPosition, 606f, 0.5f);
         LeanTween.moveY(_listPosition, 69f, 0.5f);
@@ -33,7 +31,8 @@ public class CollectibleList : MonoBehaviour
     }
 
     public void MoveOut() {
-        _closeButton.enabled = false;
+        if(LeanTween.isTweening(_listPosition)) return;
+        _audio.PlayOneShot(_listAudio);
         
         LeanTween.moveX(_listPosition, 890f, 0.5f);
         LeanTween.moveY(_listPosition, 430f, 0.5f);
@@ -41,11 +40,8 @@ public class CollectibleList : MonoBehaviour
     }
 
     public void UpdateList(int index) {
+        _audio.PlayOneShot(_collectAudio);
         _collectibleCount[index]++;
-        UpdateText(index);
-    }
-
-    private void UpdateText(int index) {
-        _collectibleCountTexts[index].text = _collectibleCount[index] + "";
+        UIManager.Instance.UpdateText(index, _collectibleCount[index]);
     }
 }
