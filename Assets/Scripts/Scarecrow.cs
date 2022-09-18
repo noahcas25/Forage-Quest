@@ -7,8 +7,6 @@ public class Scarecrow : MonoBehaviour
     [SerializeField] private Transform _camera;
     [SerializeField] private CharacterController _charController;
     [SerializeField] private Animator _anim;
-    [SerializeField] private Animator _list;
-    [SerializeField] private RectTransform _list2;
     [SerializeField] private float _speed;
     [SerializeField] private float _gravityScale;
     [SerializeField] private float _gravityValue;
@@ -19,7 +17,6 @@ public class Scarecrow : MonoBehaviour
 
     private void Update() {
         Movement();
-        Keys2();
     }
 
     private void Movement() {
@@ -51,32 +48,5 @@ public class Scarecrow : MonoBehaviour
         _direction.y = _velocity;
         _charController.Move(_direction * Time.deltaTime * _speed);
         _camera.position = new Vector3(transform.position.x+4f, transform.position.y + 6f, transform.position.z-8f);
-    }
-
-    private void Keys() {
-        if(Input.GetKeyDown("space")) {
-            _list.Play("MoveIn");
-        }
-
-        if(Input.GetKeyDown("p")) {
-            _list.Play("MoveOut");
-        }
-    }
-
-    private void Keys2() {
-        if(LeanTween.isTweening(_list2)) return;
-
-        if(Input.GetKeyDown("space")) {
-            LeanTween.moveX(_list2, 545f, 0.5f);
-            LeanTween.moveY(_list2, -24f, 0.5f);
-            LeanTween.scale( _list2, new Vector3(1f, 1f, 1f), 0.5f);
-        }
-
-        if(Input.GetKeyDown("p")) {
-           LeanTween.moveX(_list2, 890f, 0.5f);
-            LeanTween.moveY(_list2, 430f, 0.5f);
-            LeanTween.scale( _list2, new Vector3(0.15f, 0.15f, 0.15f), 0.5f);
-        
-        }
     }
 }

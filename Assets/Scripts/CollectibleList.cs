@@ -6,6 +6,7 @@ using TMPro;
 
 public class CollectibleList : MonoBehaviour
 {
+    [SerializeField] private Transform _collectibles;
     [SerializeField] private Transform _listInts;
     [SerializeField] private AudioSource _audio;
     [SerializeField] private AudioClip _collectAudio;
@@ -43,5 +44,9 @@ public class CollectibleList : MonoBehaviour
         _audio.PlayOneShot(_collectAudio);
         _collectibleCount[index]++;
         UIManager.Instance.UpdateText(index, _collectibleCount[index]);
+
+        if(_collectibles.childCount == 1) {
+            GameManager.Instance.GamesComplete();
+        }
     }
 }
