@@ -18,6 +18,7 @@ public class UIManager : MonoBehaviour
 
     private void Awake() {
         Instance = this;
+         Application.targetFrameRate = 60;
 
         for(int i = 0; i < _listIntsCurrent.childCount; i++) {
             _collectibleCountTextsCurrent[i] = _listIntsCurrent.GetChild(i).GetComponent<TextMeshProUGUI>();
@@ -35,12 +36,14 @@ public class UIManager : MonoBehaviour
     }
 
     private void FadeIn() {
-        LeanTween.scale(_blackOutImage, new Vector3(0f, 0f, 0f), 0.5f);
+        LeanTween.moveX(_blackOutImage, -2500, 0.5f).setDelay(0.5f);
     }
  
     public void FadeOut() {
-        LeanTween.scale(_blackOutImage, new Vector3(1f, 1f, 1f), 0.5f).setDelay(0.5f);
+        LeanTween.moveX(_blackOutImage, 0f, 0.5f).setDelay(0.5f);
     }
 
-    public void Replay() => GameManager.Instance.Replay();
+    public void Replay() => GameManager.Instance.SceneChange("GameScene");
+
+    public void Quit() => Application.OpenURL("https://nightmodegames.itch.io/");
 }

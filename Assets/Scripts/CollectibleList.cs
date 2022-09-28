@@ -26,17 +26,17 @@ public class CollectibleList : MonoBehaviour
         if(LeanTween.isTweening(_listPosition)) return;
         _audio.PlayOneShot(_listAudio);
 
-        LeanTween.moveX(_listPosition, 606f, 0.5f);
-        LeanTween.moveY(_listPosition, 69f, 0.5f);
-        LeanTween.scale(_listPosition, new Vector3(1f, 1f, 1f), 0.5f);
+        LeanTween.moveX(_listPosition, -272f, 0.5f);
+        LeanTween.moveY(_listPosition, -349f, 0.5f);
+        LeanTween.scale(_listPosition, new Vector3(0.75f, 0.75f, 0.75f), 0.5f);
     }
 
     public void MoveOut() {
         if(LeanTween.isTweening(_listPosition)) return;
         _audio.PlayOneShot(_listAudio);
         
-        LeanTween.moveX(_listPosition, 890f, 0.5f);
-        LeanTween.moveY(_listPosition, 430f, 0.5f);
+        LeanTween.moveX(_listPosition, -84f, 0.5f);
+        LeanTween.moveY(_listPosition, -92f, 0.5f);
         LeanTween.scale(_listPosition, new Vector3(0.15f, 0.15f, 0.15f), 0.5f);
     }
 
@@ -46,7 +46,7 @@ public class CollectibleList : MonoBehaviour
         UIManager.Instance.UpdateText(index, _collectibleCount[index]);
 
         if(_collectibles.childCount == 1) {
-            GameManager.Instance.GamesComplete();
+            GameManager.Instance.SceneChange("EndScene");
         }
     }
 }

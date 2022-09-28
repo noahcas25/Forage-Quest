@@ -9,13 +9,11 @@ public class GameManager : MonoBehaviour
 
     private void Awake() => Instance = this;
 
-    public void Replay() => SceneManager.LoadScene("GameScene");
+    public void SceneChange(string sceneName) => StartCoroutine(FadeOutDelay(sceneName)); 
 
-    public void GamesComplete() => StartCoroutine(GamesCompleteDelay());
-
-    private IEnumerator GamesCompleteDelay() {
+    private IEnumerator FadeOutDelay(string sceneName) {
         UIManager.Instance.FadeOut();
         yield return new WaitForSeconds(1f);
-        SceneManager.LoadScene("EndScene");
+        SceneManager.LoadScene(sceneName); 
     }
 }
